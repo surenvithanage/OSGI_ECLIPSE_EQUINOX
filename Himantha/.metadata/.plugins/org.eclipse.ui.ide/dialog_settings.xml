@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\suren\Desktop\SA_1\IT17022248\Himantha\WarehouseSubscriber"/>
+		<item value="C:\Users\suren\Desktop\SA_1\IT17022248\Himantha\WarehousePublisher"/>
+		<item value="C:\Users\suren\Desktop\SA_1\IT17022248\Himantha\InventoryPublisher"/>
+		<item value="C:\Users\suren\Desktop\SA_1\IT17022248\Himantha\InventoryDatabase"/>
+	</list>
+</section>
